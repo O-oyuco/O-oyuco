@@ -48,7 +48,7 @@ Destaco por mis sólidos conocimientos informáticos, tanto en hardware como en 
 <br/>  
 
 
-## Github Stats  
+## Estadisticas Github 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=o-oyuco&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
